@@ -1,0 +1,122 @@
+export const properties = [
+    {
+        id: 1,
+        image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+        title: "Luxury Apartment in South Mumbai",
+        location: "Colaba, Mumbai",
+        price: "₹3.5 Cr",
+        bedRoom: 2,
+        bathRoom: 2,
+        car: 1,
+        carpetArea: "500 sq feet",
+        description: "A premium 2BHK apartment with stunning sea views, modern interiors, and close proximity to prime shopping and dining areas."
+    },
+    {
+        id: 2,
+        image: "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg",
+        title: "Spacious Bungalow in New Delhi",
+        location: "Vasant Vihar, New Delhi",
+        price: "₹6.8 Cr",
+        bedRoom: 4,
+        bathRoom: 4,
+        car: 2,
+        carpetArea: "2500 sq feet",
+        description: "A beautifully designed 4BHK bungalow with lush green surroundings, a private lawn, and luxurious interiors in a prime locality."
+    },
+    {
+        id: 3,
+        image: "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
+        title: "Modern Villa with Private Pool",
+        location: "Whitefield, Bangalore",
+        price: "₹2.9 Cr",
+        bedRoom: 3,
+        bathRoom: 3,
+        car: 1,
+        carpetArea: "1800 sq feet",
+        description: "A stunning 3BHK villa with a private pool, landscaped gardens, and premium furnishings in a peaceful gated community."
+    },
+    {
+        id: 4,
+        image: "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg",
+        title: "Premium Duplex Apartment",
+        location: "Salt Lake, Kolkata",
+        price: "₹1.75 Cr",
+        bedRoom: 3,
+        bathRoom: 2,
+        car: 1,
+        carpetArea: "1200 sq feet",
+        description: "A spacious duplex apartment with modern amenities, high ceilings, and a beautiful city skyline view."
+    },
+    {
+        id: 5,
+        image: "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg",
+        title: "Sea Facing Penthouse",
+        location: "Juhu, Mumbai",
+        price: "₹8.2 Cr",
+        bedRoom: 5,
+        bathRoom: 5,
+        car: 3,
+        carpetArea: "3500 sq feet",
+        description: "An ultra-luxurious penthouse offering panoramic sea views, a private terrace, and state-of-the-art interiors."
+    },
+    {
+        id: 6,
+        image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+        title: "Cozy 2BHK Apartment",
+        location: "Baner, Pune",
+        price: "₹1.2 Cr",
+        bedRoom: 2,
+        bathRoom: 2,
+        car: 1,
+        carpetArea: "900 sq feet",
+        description: "A well-designed 2BHK apartment with modern decor, ample sunlight, and close proximity to IT hubs."
+    },
+    {
+        id: 7,
+        image: "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
+        title: "Luxury 3BHK Villa",
+        location: "ECR, Chennai",
+        price: "₹2.5 Cr",
+        bedRoom: 3,
+        bathRoom: 3,
+        car: 2,
+        carpetArea: "2000 sq feet",
+        description: "A breathtaking 3BHK villa with a large garden, premium interiors, and a spacious balcony facing the beach."
+    },
+    {
+        id: 8,
+        image: "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg",
+        title: "Independent House",
+        location: "Banjara Hills, Hyderabad",
+        price: "₹3.9 Cr",
+        bedRoom: 4,
+        bathRoom: 4,
+        car: 2,
+        carpetArea: "2500 sq feet",
+        description: "A standalone luxurious house with high-end finishes, a private garden, and excellent connectivity to the city."
+    },
+    {
+        id: 9,
+        image: "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg",
+        title: "Modern Studio Apartment",
+        location: "Koramangala, Bangalore",
+        price: "₹85 Lakh",
+        bedRoom: 1,
+        bathRoom: 1,
+        car: 0,
+        carpetArea: "450 sq feet",
+        description: "A compact yet stylish studio apartment, ideal for young professionals, featuring smart space-saving designs and easy access to IT parks."
+    },
+    {
+        id: 10,
+        image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+        title: "Farmhouse Retreat",
+        location: "Alibaug, Maharashtra",
+        price: "₹5.5 Cr",
+        bedRoom: 6,
+        bathRoom: 6,
+        car: 4,
+        carpetArea: "5000 sq feet",
+        description: "A luxurious farmhouse with a private pool, open gardens, and a serene escape from city life."
+    }
+];
