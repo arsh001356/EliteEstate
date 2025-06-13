@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Hero from './Hero'
-import Section2 from './section2'
+import Section2 from './Section2'
 import Section3 from './Section3'
 import HomePageProperties from './HomePageProperties'
 // import { properties } from '../assets/Data'
